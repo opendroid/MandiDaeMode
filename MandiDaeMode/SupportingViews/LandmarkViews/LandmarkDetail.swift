@@ -25,10 +25,6 @@ struct LandmarkDetail: View {
           .padding(.bottom, -150)
       }
       
-      VStack {
-        Badge()
-      }
-
       VStack (alignment: .leading) {
         HStack {
           Text(landmark.name)

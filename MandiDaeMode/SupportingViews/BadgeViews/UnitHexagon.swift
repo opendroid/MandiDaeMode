@@ -7,12 +7,12 @@
 
 import SwiftUI
 /**
-  Creates a vertical Hexagon with a raduis as 1 unit. Round edge by providing a arc angle
-   between two points: first and second with control point at center.
-   - arcDegree: Angle is arc at the center of the Hexagon
+ Creates a vertical Hexagon with a raduis as 1 unit. Round edge by providing a arc angle
+ between two points: first and second with control point at center.
+ - arcDegree: Angle is arc at the center of the Hexagon
  
-   - Note: For calculations of the vertices see image:
-    ![Math](../Resources/HexagonMath.jpeg)
+ - Note: For calculations of the vertices see image:
+ ![Math](../Resources/HexagonMath.jpeg)
  
  */
 struct UnitHexagon {
@@ -50,7 +50,7 @@ struct UnitHexagon {
     d2 = CGPoint(x: -b1.x, y: b1.y)
     b2 = CGPoint(x: bc.x - lP.x, y: bc.y + lP.y)
     d1 = CGPoint(x: -b2.x, y: b2.y)
-
+    
     
     // Points A and E mirror y-axis
     ac = CGPoint(x: bc.x, y: -bc.y)
