@@ -1,0 +1,393 @@
+[
+  {
+    "name": "Mandav Bridge",
+    "category": "Bridges",
+    "city": "Mandi",
+    "state": "Himachal Pradesh",
+    "id": 1001,
+    "isFeatured": true,
+    "isFavorite": true,
+    "park": "Mandi ITI Park",
+    "wikiURL": "https://en.wikipedia.org/wiki/Mandi,_Himachal_Pradesh",
+    "coordinates": {
+      "longitude": 76.9425194,
+      "latitude": 31.7015167
+    },
+    "description": "The princely state of Mandi was founded by Bahu Sen in 1200 AD. But Ajbar Sen was the one who founded the historical city of Mandi in 1526 AD. The Chiefs of Mandi State are said to be the descendants of common ancestors of the Chandervanshi line of Rajputs of Sen dynasty of Bengal who claim to be the descendants of Pandavas of Mahabharata times. The present District of Mandi was formed with the merger of two princely states Mandi State and Suket (Sundernagar) on 15 April 1948, when the State of Himachal Pradesh was established. Ajbar Sen assassinated Mandi, it led to the beginning of the modern period of Mandi history.",
+    "imageName": "mandiBridge"
+  },
+  {
+    "name": "Jantar Mantar",
+    "category": "Featured",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "id": 1002,
+    "isFeatured": true,
+    "isFavorite": false,
+    "park": "Jantar Mantar Park",
+    "wikiURL": "https://en.wikipedia.org/wiki/Jantar_Mantar,_Jaipur",
+    "coordinates": {
+      "longitude": 76.9425194,
+      "latitude": 26.9247278
+    },
+    "description": "The Jantar Mantar is a collection of nineteen architectural astronomical instruments built by the Rajput king Sawai jai singh II, the founder of Jaipur, Rajasthan. The monument was completed in 1734. It features the world's largest stone sundial, and is a UNESCO World Heritage site. It is located near City Palace and Hawa Mahal. The instruments allow the observation of astronomical positions with the naked eye. The observatory is an example of the Ptolemaic positional astronomy which was shared by many civilizations.",
+    "imageName": "JantarMantarPark"
+  },
+  {
+    "name": "Qutub Minar",
+    "category": "Featured",
+    "city": "New Delhi",
+    "state": "New Delhi",
+    "id": 1003,
+    "isFeatured": true,
+    "isFavorite": false,
+    "park": "Qutub Minar Complex",
+    "wikiURL": "https://en.wikipedia.org/wiki/Qutb_Minar",
+    "coordinates": {
+      "longitude": 77.1854031,
+      "latitude": 28.5243412
+    },
+    "description": "Qutab Minar is a soaring, 73 m-high tower of victory, built in 1193 by Qutab-ud-din Aibak immediately after the defeat of Delhi's last Hindu kingdom. The tower has five distinct storeys, each marked by a projecting balcony and tapers from a 15 m diameter at the base to just 2.5 m at the top. The first three storeys are made of red sandstone; the fourth and fifth storeys are of marble and sandstone. At the foot of the tower is the Quwwat-ul-Islam Mosque, the first mosque to be built in India. An inscription over its eastern gate provocatively informs that it was built with material obtained from demolishing '27 Hindu temples'. A 7 m-high iron pillar stands in the courtyard of the mosque. It is said that if you can encircle it with your hands while standing with your back to it your wish will be fulfilled.",
+    "imageName": "QutubMinarPark"
+  },
+  {
+    "name": "Laitkynsew Hills View",
+    "category": "Mountains",
+    "city": "Laitkynsew",
+    "state": "Meghalaya",
+    "id": 1004,
+    "isFeatured": true,
+    "isFavorite": false,
+    "park": "Laitkynsew",
+    "wikiURL": "https://en.wikipedia.org/wiki/Laitkynsew",
+    "coordinates": {
+      "longitude": 91.8698722,
+      "latitude": 25.4135944
+    },
+    "description": "Laitkynsew is a village in the East Khasi Hills district of Meghalaya State, in north-eastern India. It is perhaps best known for its living root bridges. The Umnnoi living root bridge, known locally as Jingkieng Deingjri, which means 'bridge of the rubber tree', is 53 feet long and over 100 years old. The Ka Likai waterfall, near the neighboring village of Nongriat, can best be seen from Laitkynsew, and the monsoon season in autumn is the most impressive time to view it.",
+    "imageName": "Laitkynsew"
+  },
+  {
+    "name": "Cherrapunji-Mawsynram",
+    "category": "Mountains",
+    "city": "Cherrapunji",
+    "state": "Meghalaya",
+    "id": 1005,
+    "isFeatured": true,
+    "isFavorite": false,
+    "park": "Cherrapunji-Mawsynram Reserve Forest",
+    "wikiURL": "https://en.wikipedia.org/wiki/Cherrapunji",
+    "coordinates": {
+      "longitude": 91.8709556,
+      "latitude": 25.3888778
+    },
+    "description": "Cherrapunji or Sohra is a subdivisional town in the East Khasi Hills district in the Indian state of Meghalaya. It is the traditional capital of ka hima Sohra (Khasi tribal kingdom). Cherrapunji has often been credited as being the wettest place on Earth, but for now nearby Mawsynram currently holds that distinction. It still holds the all-time record for the most rainfall in a calendar month and in a year, however: it received 9,300 millimetres (370 in; 30.5 ft) in July 1861 and 26,461 millimetres (1,041.8 in; 86.814 ft) between 1 August 1860 and 31 July 1861",
+    "imageName": "SunpointView"
+  },
+  {
+    "name": "Bay Bridge",
+    "category": "Bridges",
+    "city": "San Francisco",
+    "state": "California",
+    "id": 1006,
+    "isFeatured": true,
+    "isFavorite": true,
+    "park": "San Francisco–Oakland Bay",
+    "wikiURL": "https://en.wikipedia.org/wiki/San_Francisco–Oakland_Bay_Bridge",
+    "coordinates": {
+      "longitude": -122.3893592,
+      "latitude": 37.7904913
+    },
+    "description": "The San Francisco–Oakland Bay Bridge, known locally as the Bay Bridge, is a complex of bridges spanning San Francisco Bay in California. As part of Interstate 80 and the direct road between San Francisco and Oakland, it carries about 260,000 vehicles a day on its two decks. It has one of the longest spans in the United States.",
+    "imageName": "BayBridge"
+  },
+  {
+    "name": "Treasure Island LV",
+    "category": "Featured",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "id": 1007,
+    "isFeatured": true,
+    "isFavorite": false,
+    "park": "Las Vegas Strip",
+    "wikiURL": "https://en.wikipedia.org/wiki/Treasure_Island_Hotel_and_Casino",
+    "coordinates": {
+      "longitude": -115.1703638,
+      "latitude": 36.1217574
+    },
+    "description": "Treasure Island Hotel and Casino (also known as Treasure Island Las Vegas is a hotel and casino located on the Las Vegas Strip in Paradise, Nevada, USA with 2,884 rooms and 220 suites, and is connected by tram to The Mirage as well as pedestrian bridge to the Fashion Show Mall shopping center. It is owned and operated by Phil Ruffin.",
+    "imageName": "TreasureIslandLV"
+  },
+  {
+    "name": "Crewe Hall Hotel",
+    "category": "Featured",
+    "city": "Crewe",
+    "state": "United Kingdom",
+    "id": 1008,
+    "isFeatured": true,
+    "isFavorite": true,
+    "park": "Crewe Hall Enterprise Park",
+    "wikiURL": "https://en.wikipedia.org/wiki/Crewe_Hall",
+    "coordinates": {
+      "longitude": -2.3998226,
+      "latitude": 53.0830469
+    },
+    "description": "Crewe Hall is a Jacobean mansion located near Crewe Green, east of Crewe, in Cheshire, England. Described by Nikolaus Pevsner as one of the two finest Jacobean houses in Cheshire, it is listed at grade I. Built in 1615–36 for Sir Randolph Crewe, it was one of the county's largest houses in the 17th century, and was said to have brought London into Cheshire",
+    "imageName": "CreweHallHotel"
+  },
+  {
+    "name": "West Edmonton Mall",
+    "category": "Featured",
+    "city": "Edmonton",
+    "state": "Alberta",
+    "id": 1009,
+    "isFeatured": true,
+    "isFavorite": false,
+    "park": "West Edmonton Mall",
+    "wikiURL": "https://en.wikipedia.org/wiki/West_Edmonton_Mall",
+    "coordinates": {
+      "longitude": -113.626494,
+      "latitude": 53.522644
+    },
+    "description": "West Edmonton Mall (WEM) is a shopping mall located in Edmonton, Alberta, Canada. It is the most visited mall in Canada, followed by Metrotown Mall in Burnaby, and the 23rd largest in the world (along with The Dubai Mall) by gross leasable area. It is currently the largest shopping mall in North America and was the world's largest mall until 2004. The mall was founded by the Ghermezian brothers, who emigrated from Iran in 1959. Its major anchors include Hudson's Bay, London Drugs, La Maison Simons, The Brick, and Winners/HomeSense.",
+    "imageName": "WestEdmontonMall"
+  },
+  {
+    "name": "Lake Oroville",
+    "category": "Lakes",
+    "city": "Oroville",
+    "state": "California",
+    "id": 1010,
+    "isFeatured": true,
+    "isFavorite": false,
+    "park": "Lake Oroville State Recreation Area",
+    "wikiURL": "https://en.wikipedia.org/wiki/Lake_Oroville",
+    "coordinates": {
+      "longitude": -121.4901806,
+      "latitude": 39.54185
+    },
+    "description": "Lake Oroville[1] is a reservoir formed by the Oroville Dam impounding the Feather River, located in Butte County, northern California. The lake is situated 5 miles (8.0 km) northeast of the city of Oroville, within the Lake Oroville State Recreation Area, in the western foothills of the Sierra Nevada. Known as the second-largest reservoir in California, Lake Oroville is treated as a keystone facility within the California State Water Project by storing water, providing flood control, recreation, freshwater releases assist in controlling the salinity intrusion Sacramento-San Joaquin Delta and protecting fish and wildlife",
+    "imageName": "OrovilleLake"
+  },
+  {
+    "name": "Lake Merritt",
+    "category": "Lakes",
+    "city": "Oakland",
+    "state": "California",
+    "id": 1011,
+    "isFeatured": true,
+    "isFavorite": false,
+    "park": "Lake Oroville State Recreation Area",
+    "wikiURL": "https://en.wikipedia.org/wiki/Lake_Merritt",
+    "coordinates": {
+      "longitude": -122.2616806,
+      "latitude": 37.8011806
+    },
+    "description": "Lake Merritt is a large tidal lagoon in the center of Oakland, California, just east of Downtown. It is surrounded by parkland and city neighborhoods. It is historically significant as the United States' first official wildlife refuge, designated in 1870, and has been listed as a National Historic Landmark since 1963, and on the National Register of Historic Places since 1966. The lake features grassy shores; several artificial islands intended as bird refuges; an interpretive center called the Rotary Nature Center at Lakeside Park; a boating center where sailboats, canoes and rowboats can be rented and classes are held; and a fairy tale themed amusement park called Children's Fairyland. A popular walking and jogging path runs along its perimeter. The circumference of the lake is 3.4 miles (5.5 km) and its area is 155 acres (63 ha).",
+    "imageName": "MerrittLake"
+  },
+  {
+    "name": "हर की पौड़ी",
+    "category": "Lakes",
+    "city": "Haridwar",
+    "state": "Uttarakhand",
+    "id": 1012,
+    "isFeatured": true,
+    "isFavorite": false,
+    "park": "Kushavarta Ghat In Haridwar",
+    "wikiURL": "https://en.wikipedia.org/wiki/Har_Ki_Pauri",
+    "coordinates": {
+      "longitude": 78.169448,
+      "latitude": 29.953958
+    },
+    "description": "Kushavarta ghat is one of the most famous and visited ghat in haridwar of Uttarakhand state by all the Hindu people from all around the world. People visit this site for doing all the rituals for their ancestors, who are no more in their lives. One of the most performed activities on this ghat is Shradh (funeral ceremony) offered by hindu people for their ancestor. As this is the time of Shradh according to the hindu rituals, so all the people will be planning to perform this activity, then the Kushavarta ghat is the best place for you all.",
+    "imageName": "KushaGhat"
+  },
+  {
+    "name": "Antelope Lake",
+    "category": "Lakes",
+    "city": "Janesville",
+    "state": "California",
+    "id": 1013,
+    "isFeatured": true,
+    "isFavorite": true,
+    "park": "Antelope Lake Recreation Area",
+    "wikiURL": "https://en.wikipedia.org/wiki/Antelope_Dam_(California)",
+    "coordinates": {
+      "longitude": -120.607300,
+      "latitude": 40.190100
+    },
+    "description": "At 5,000 feet in elevation, Antelope Lake is located in the northeastern part of the Mt. Hough Ranger District. It is a small remote lake with 15 miles of shoreline. Surrounding the lake are mountains blanketed with pine and fir trees. Protected coves around the lake attract several species of migratory birds. The small store at Antelope Lake is not open this year.  Please stop in nearby communities such as Taylorsville, Greenvile, Janesville, Milford and Susanville for ice and other supplies before you travel up the hill.  Wood is for sale within campgrounds.",
+    "imageName": "AntelopeLake"
+  },
+  {
+    "name": "Dhauladhar",
+    "category": "Mountains",
+    "city": "Chhataryana",
+    "state": "Himachal Pradesh",
+    "id": 1014,
+    "isFeatured": true,
+    "isFavorite": true,
+    "park": "The White Range",
+    "wikiURL": "https://en.wikipedia.org/wiki/Dhauladhar",
+    "coordinates": {
+      "longitude": 76.693519,
+      "latitude": 31.757203
+    },
+    "description": "The Dhauladhar range (The White Range) is part of a lesser Himalayan chain of mountains. It rises from the Indian plains to the north of Kangra and Mandi. Dharamsala, the headquarters of Kangra district, lies on its southern spur in above the Kangra Valley, which divides it from Chamba.",
+    "imageName": "ChhataryanaHills"
+  },
+  {
+    "name": "Mata Kanchna Temple",
+    "category": "Mountains",
+    "city": "Gharbasra",
+    "state": "Himachal Pradesh",
+    "id": 1015,
+    "isFeatured": false,
+    "isFavorite": true,
+    "park": "Mata Kanchna Temple View",
+    "wikiURL": "https://www.facebook.com/pages/category/Religious-Organization/Kanchana-mata-gharwasra-sarkaghat-346325239159747/",
+    "coordinates": {
+      "longitude": 76.685508,
+      "latitude": 31.768958
+    },
+    "description": "It falls under the Dharampur tehsil of Sarakaghat subdivision. The location used to be very difficult in geographical terms. There was only one way to reach this place some time ago, which was quite narrow and risky. But now the new path has been created which is safe and is made up of about 1200 stairs. The grand temple of Kanchana Mata is situated on the summit of Anantapurgarh. The view from around the temple looks very enchanting.",
+    "imageName": "GharbasraHills"
+  },
+  {
+    "name": "Kasuali",
+    "category": "Mountains",
+    "city": "Kasauli",
+    "state": "Himachal Pradesh",
+    "id": 1016,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "Albert Nature trail",
+    "wikiURL": "https://en.wikipedia.org/wiki/Kasauli",
+    "coordinates": {
+      "longitude": 76.973611,
+      "latitude": 30.888494
+    },
+    "description": "Kasauli is a cantonment and town, located in Solan district in the Indian state of Himachal Pradesh. The cantonment was established by the British Raj in 1842 as a Colonial hill station,[1] 77 km from Shimla, 65 km from Chandigarh, and 94 km from Ambala Cantt (Haryana), an important railway junction of North India.",
+    "imageName": "KasauliHills"
+  },
+  {
+    "name": "Oat Hill",
+    "category": "Mountains",
+    "city": "Calistoga",
+    "state": "California",
+    "id": 1017,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "Oat Hill Mine Trail",
+    "wikiURL": "https://napaoutdoors.org/parks/oat-hill-mine-trail",
+    "coordinates": {
+      "longitude": -122.570083,
+      "latitude": 38.595992
+    },
+    "description": "The Oat Hill Mine Trail follows 8.3 miles of an old stage coach route between Calistoga and the western end of Aetna Springs Road in Pope Valley over an elevation change of 1500 feet. The trail can be divided with the halfway point at the base of the Palisades (Holms Place) with a return to Calistoga or on to Pope Valley.",
+    "imageName": "CalistogaOatHill"
+  },
+  {
+    "name": "Mission Peak",
+    "category": "Mountains",
+    "city": "Fremont",
+    "state": "California",
+    "id": 1018,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "Horse Heaven Trail",
+    "wikiURL": "https://en.wikipedia.org/wiki/Mission_Peak",
+    "coordinates": {
+      "longitude": -121.899051,
+      "latitude": 37.503817
+    },
+    "description": "Mission Peak Regional Preserve is a public park east of Fremont, California, operated by the East Bay Regional Park District. It is the northern summit on a ridge that includes Mount Allison and Monument Peak. Mission Peak has symbolic importance, and is depicted on the logo of the City of Fremont.",
+    "imageName": "MissionPeak"
+  },
+  {
+    "name": "Living Root Bridge",
+    "category": "Bridges",
+    "city": "Surok Mawlynnong",
+    "state": "Meghalaya",
+    "id": 1019,
+    "isFeatured": false,
+    "isFavorite": true,
+    "park": "Meghalaya Hills",
+    "wikiURL": "https://en.wikipedia.org/wiki/Living_root_bridge",
+    "coordinates": {
+      "longitude": 91.897514,
+      "latitude": 25.206747
+    },
+    "description": "A living root bridge is a type of simple suspension bridge formed of living plant roots by tree shaping. They are common in the southern part of the Northeast Indian state of Meghalaya. They are handmade from the aerial roots of rubber fig trees (Ficus elastica) by the Khasi and Jaintia peoples of the mountainous terrain along the southern part of the Shillong Plateau. Most of the bridges grow on steep slopes of subtropical moist broadleaf forest between 50m and 1150m above sea level. As long as the tree from which it is formed remains healthy, the roots in the bridge can naturally grow thick and strengthen. New roots can grow throughout the tree's life and must be pruned or manipulated to strengthen the bridge. Without active care, many bridges have decayed or grown wild, becoming unusable. Root bridges have also been observed in the Indian state of Nagaland.",
+    "imageName": "LivingRootBridge"
+  },
+  {
+    "name": "Rainbow International Bridge",
+    "category": "Bridges",
+    "city": "Niagara Falls",
+    "state": "Ontario",
+    "id": 1020,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "Niagara Falls",
+    "wikiURL": "https://en.wikipedia.org/wiki/Rainbow_Bridge_(Niagara_Falls)",
+    "coordinates": {
+      "longitude": -79.072167,
+      "latitude": 43.087667
+    },
+    "description": "The Niagara Falls International Rainbow Bridge, commonly known as the Rainbow Bridge, is an arch bridge across the Niagara River gorge. It connects the cities of Niagara Falls, New York, United States (to the east), and Niagara Falls, Ontario, Canada (west).",
+    "imageName": "RainbowInternationalBridge"
+  },
+  {
+    "name": "Ponderosa Bridge",
+    "category": "Bridges",
+    "city": "Jamestown",
+    "state": "California",
+    "id": 1021,
+    "isFeatured": false,
+    "isFavorite": true,
+    "park": "North Fork American River",
+    "wikiURL": "https://en.wikipedia.org/wiki/North_Fork_American_River",
+    "coordinates": {
+      "longitude":  -119.944320,
+      "latitude": 37.811292
+    },
+    "description": "The North Fork American River is the longest branch of the American River in Northern California. It is 88 miles (142 km) long from its source at the crest of the Sierra Nevada, near Lake Tahoe, to its mouth at Folsom Lake northeast of Sacramento. Prior to the construction of Folsom Dam the river was about 9 miles (14 km) longer making for a total length of 97 miles (156 km).",
+    "imageName": "PonderosaBridge"
+  },
+  {
+    "name": "Yosemite Vally",
+    "category": "Mountains",
+    "city": "Yosemite",
+    "state": "California",
+    "id": 1022,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "Yosemite National Park",
+    "wikiURL": "https://en.wikipedia.org/wiki/Yosemite_National_Park",
+    "coordinates": {
+      "longitude":  -119.636377,
+      "latitude": 37.728195
+    },
+    "description": "Yosemite National Park is an American national park located in the western Sierra Nevada of Central California, bounded on the southeast by Sierra National Forest and on the northwest by Stanislaus National Forest. The park is managed by the National Park Service and covers an area of 748,436 acres (1,169 sq mi; 3,029 km2) and sits in four counties: centered in Tuolumne and Mariposa, extending north and east to Mono and south to Madera County. Designated a World Heritage Site in 1984, Yosemite is internationally recognized for its granite cliffs, waterfalls, clear streams, giant sequoia groves, lakes, mountains, meadows, glaciers, and biological diversity. Almost 95% of the park is designated wilderness",
+    "imageName": "YosemiteVallyMountain"
+  },
+  {
+    "name": "Gadyara Bridge",
+    "category": "Bridges",
+    "city": "Gadyara",
+    "state": "Himachal Pradesh",
+    "id": 1023,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "Sjao Khad Path",
+    "wikiURL": "https://villageinfo.in/himachal-pradesh/mandi/sarkaghat/sajao.html",
+    "coordinates": {
+      "longitude":  76.709389,
+      "latitude": 31.758828
+    },
+    "description": "Gadyara Bridge between Sajaopiplu and Bhadu village. According to Census 2011 information the location code or village code of Sajao village is 013834. Sajao village is located in Sarkaghat Tehsil of Mandi district in Himachal Pradesh, India. It is situated 79km away from district headquarter Sarkaghat. Sarkaghat is the sub-district headquarter of Sajao village. As per 2009 stats, Sajao Piplu Dp is the gram panchayat of Sajao village.",
+    "imageName": "GadyaraBridge"
+  }
+]
