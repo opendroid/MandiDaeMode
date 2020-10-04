@@ -14,11 +14,11 @@ struct BadgeSymbol: View {
     GeometryReader { geomatry in
       Path { path in
         let w = min(geomatry.size.width, geomatry.size.height)
-        let h = w * 0.8 // height
+        let h = w * 0.75 // height
         let s = w * 0.03 // s, spacing
         let m = w / 2 // m, middle
-        let tw = 0.226 * w // top width
-        let th = 0.488 * h // top height
+        let tw = 0.226 * w // top-width
+        let th = 0.488 * h // top-height
         
         path.addLines([
           CGPoint(x: m, y: s),

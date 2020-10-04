@@ -22,7 +22,7 @@ struct BadgeBackground: View {
         }
       }
       .transform(.init(scaleX: width * scaleBy, y: width * scaleBy))
-      .transform(.init(translationX: geomatry.size.width/2, y: geomatry.size.height/3.45))
+      .transform(.init(translationX: geomatry.size.width/2, y: geomatry.size.height/2))
       .fill(LinearGradient(
               gradient: .init(colors: [Self.gradientStart, Self.gradientEnd]),
               startPoint: .init(x: 0.5, y: 0),

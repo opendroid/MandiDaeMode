@@ -23,7 +23,7 @@ struct Badge: View {
         BadgeBackground()
         self.badgeSymbols
           .scaleEffect(0.2, anchor: .top)
-          .position(x: geometry.size.width / 2.0, y: 0.6 * geometry.size.height)
+          .position(x: geometry.size.width / 2.0, y: 0.8 * geometry.size.height)
       }
     }
     .scaledToFit()

@@ -9,6 +9,7 @@ import SwiftUI
 
 struct CategoryHome: View {
   @State var showingProfile = false
+  @EnvironmentObject var userData: UserData
   
   var categories: [String: [Landmark]] {
     Dictionary(
@@ -50,7 +51,8 @@ struct CategoryHome: View {
       .navigationBarTitle("Featured")
       .navigationBarItems(trailing: profileButton)
       .sheet(isPresented: $showingProfile) {
-        Text("User Profile")
+        ProfileHost()
+          .environmentObject(self.userData)
       }
     }
   }
