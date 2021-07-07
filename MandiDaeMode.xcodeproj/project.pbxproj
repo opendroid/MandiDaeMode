@@ -51,7 +51,6 @@
 		1C601B6825205BDD0076A2C5 /* TreasureIslandLV.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C601B6725205BDD0076A2C5 /* TreasureIslandLV.jpg */; };
 		1C601B6B252064F70076A2C5 /* CreweHallHotel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C601B6A252064F70076A2C5 /* CreweHallHotel.jpg */; };
 		1C601B6E252067520076A2C5 /* WestEdmontonMall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C601B6D252067520076A2C5 /* WestEdmontonMall.jpg */; };
-		1C8A65362526C30200DF8BFD /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 1C8A65352526C30200DF8BFD /* README.md */; };
 		1C8A653B2526CE4000DF8BFD /* HikeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8A653A2526CE4000DF8BFD /* HikeView.swift */; };
 		1C8A653F2526CF0A00DF8BFD /* hikeData.json in Resources */ = {isa = PBXBuildFile; fileRef = 1C8A653E2526CF0A00DF8BFD /* hikeData.json */; };
 		1C8A65422526CF2800DF8BFD /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8A65412526CF2800DF8BFD /* Hike.swift */; };
@@ -114,7 +113,6 @@
 		1C601B6725205BDD0076A2C5 /* TreasureIslandLV.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = TreasureIslandLV.jpg; sourceTree = "<group>"; };
 		1C601B6A252064F70076A2C5 /* CreweHallHotel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = CreweHallHotel.jpg; sourceTree = "<group>"; };
 		1C601B6D252067520076A2C5 /* WestEdmontonMall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = WestEdmontonMall.jpg; sourceTree = "<group>"; };
-		1C8A65352526C30200DF8BFD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		1C8A653A2526CE4000DF8BFD /* HikeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeView.swift; sourceTree = "<group>"; };
 		1C8A653E2526CF0A00DF8BFD /* hikeData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hikeData.json; sourceTree = "<group>"; };
 		1C8A65412526CF2800DF8BFD /* Hike.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hike.swift; sourceTree = "<group>"; };
@@ -196,7 +194,6 @@
 				1C601B24252019DA0076A2C5 /* LaunchScreen.storyboard */,
 				1C601B27252019DA0076A2C5 /* Info.plist */,
 				1C601B21252019DA0076A2C5 /* Preview Content */,
-				1C8A65352526C30200DF8BFD /* README.md */,
 			);
 			path = MandiDaeMode;
 			sourceTree = "<group>";
@@ -375,7 +372,6 @@
 				1C0B2E752521147E00ABB008 /* MissionPeak.jpg in Resources */,
 				1C601B6825205BDD0076A2C5 /* TreasureIslandLV.jpg in Resources */,
 				1C0B2E6525210DB200ABB008 /* AntelopeLake.jpg in Resources */,
-				1C8A65362526C30200DF8BFD /* README.md in Resources */,
 				1C0B2E6125210A9900ABB008 /* KushaGhat.jpg in Resources */,
 				1C0B2E812521255400ABB008 /* YosemiteVallyMountain.jpg in Resources */,
 				1C0B2E6825210EE300ABB008 /* ChhataryanaHills.jpg in Resources */,
